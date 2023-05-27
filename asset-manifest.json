@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/bookphone/static/css/main.7acaea2f.css",
-    "main.js": "/bookphone/static/js/main.3b5224b5.js",
+    "main.css": "/bookphone/static/css/main.463ee4b8.css",
+    "main.js": "/bookphone/static/js/main.bf7e2517.js",
     "index.html": "/bookphone/index.html",
-    "main.7acaea2f.css.map": "/bookphone/static/css/main.7acaea2f.css.map",
-    "main.3b5224b5.js.map": "/bookphone/static/js/main.3b5224b5.js.map"
+    "main.463ee4b8.css.map": "/bookphone/static/css/main.463ee4b8.css.map",
+    "main.bf7e2517.js.map": "/bookphone/static/js/main.bf7e2517.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.3b5224b5.js"
+    "static/css/main.463ee4b8.css",
+    "static/js/main.bf7e2517.js"
   ]
 }

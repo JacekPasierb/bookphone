@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bookphone/static/css/main.7acaea2f.css",
+    "main.js": "/bookphone/static/js/main.3b5224b5.js",
+    "index.html": "/bookphone/index.html",
+    "main.7acaea2f.css.map": "/bookphone/static/css/main.7acaea2f.css.map",
+    "main.3b5224b5.js.map": "/bookphone/static/js/main.3b5224b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.3b5224b5.js"
+  ]
+}
